@@ -1,0 +1,1 @@
+This is a lousy-written implementation of a genetic algorithm for approximating graphics by a lot of transparent triangles. We can also consider it as an universal approximation of general real-valued functions on a rectangle.
